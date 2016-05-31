@@ -11,6 +11,7 @@ git diff --cached  # 目前修改檔案的 diff,檔案要先 add 到 statge 中�
 ## Reset
 ```bash
 git reset --hard HEAD # 全部復原
+git reset FileName    # 檔案從 staged 中移到 unstaged 
 ```
 
 ## Show
