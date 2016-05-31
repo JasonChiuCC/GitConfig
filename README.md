@@ -19,7 +19,7 @@ git reset FileName    # 檔案從 staged 中移到 unstaged
 git show -p -1/sha    # show 更改內容
 ```
 
-# Checkout
+## Checkout
 ```bash
 git checkout FileName # Discard unstaged file change
 ```
