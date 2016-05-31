@@ -12,3 +12,8 @@ git diff --cache # 目前修改檔案的 diff
 ```bash
 git reset --hard HEAD # 全部復原
 ```
+
+## Show
+```bash
+git show -p -1/sha    # show 更改內容
+```
