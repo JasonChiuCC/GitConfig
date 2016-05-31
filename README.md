@@ -1,4 +1,4 @@
-# Git Config
+## Git Config
 
 ```bash
 git config --global color.ui true
@@ -15,7 +15,7 @@ lg5 = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(
 lg = !"git lg1"
 ```
 
-# Git Add Remote
+## Git Add Remote
 ```bash
 git remote add origin /Remote/Project/Path/
 git remote update
