@@ -1,10 +1,10 @@
 [user]
-	email = jason.cc.chiu@gmail.com
-	name = Jason.CC.Chiu
+    email = jason.cc.chiu@gmail.com
+    name = Jason.CC.Chiu
 [http]
-	proxy = url:port
+    proxy = url:port
 [color]
-	ui = true
+    ui = true
 [alias]
     lg  = !"git lg1"
     lg1 = log --graph --oneline --decorate --date=relative --all	
@@ -24,6 +24,6 @@
     visual  = !gitk
     sw      = checkout
 [gui]
-	encoding = utf-8
+    encoding = utf-8
 [mergetool]
-	keepBackup = false
+    keepBackup = false
