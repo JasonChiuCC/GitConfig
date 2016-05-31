@@ -4,11 +4,11 @@ git remote add origin /Remote/Project/Path/
 git remote update
 git remote -v
 ```
-# Diff
+## Diff
 ```bash
 git diff --cache # 目前修改檔案的 diff
 ```
-# Reset
+## Reset
 ```bash
 git reset --hard HEAD # 全部復原
 ```
